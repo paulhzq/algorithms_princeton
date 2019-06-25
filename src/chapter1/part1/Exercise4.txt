@@ -1,0 +1,4 @@
+a) then is not a key word in java.
+b) if (a > b) need parentheses.
+c) Good.
+d) c=0; missing the semicolon.

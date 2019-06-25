@@ -1,0 +1,1 @@
+int[] a array doesn't initial, so compile-time error.
